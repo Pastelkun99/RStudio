@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1537246859288.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1286244565",
+    "id" : "20080F34",
+    "lastKnownWriteTime" : 1537247827,
+    "last_content_update" : 1537247827682,
+    "path" : "C:/Users/PC/Desktop/R 작업/Practice_Chap07-1(결측치정제하기)/text01.R",
+    "project_path" : "text01.R",
+    "properties" : {
+        "cursorPosition" : "15,0",
+        "scrollLine" : "2",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

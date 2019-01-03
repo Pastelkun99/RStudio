@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1537164745455.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3946368683",
+    "id" : "86EE88FA",
+    "lastKnownWriteTime" : 1537165052,
+    "last_content_update" : 1537165052478,
+    "path" : "C:/Users/PC/Desktop/R 작업/Practice_Chap06-7(데이터 합치기)/test01.R",
+    "project_path" : "test01.R",
+    "properties" : {
+        "cursorPosition" : "13,26",
+        "scrollLine" : "4",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

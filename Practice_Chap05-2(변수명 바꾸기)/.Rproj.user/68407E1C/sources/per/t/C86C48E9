@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1536239253363.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "747772454",
+    "id" : "C86C48E9",
+    "lastKnownWriteTime" : 1536130496,
+    "last_content_update" : 1536130496,
+    "path" : "C:/Users/PC/Desktop/R 작업/Practice_Chap05-2(변수명 바꾸기)/test01.R",
+    "project_path" : "test01.R",
+    "properties" : {
+        "cursorPosition" : "1,16",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

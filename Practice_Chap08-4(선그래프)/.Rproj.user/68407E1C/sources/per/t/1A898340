@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1537427343004.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4011230678",
+    "id" : "1A898340",
+    "lastKnownWriteTime" : 1537427962,
+    "last_content_update" : 1537427962979,
+    "path" : "C:/Users/PC/Desktop/R 작업/Practice_Chap08-4(선그래프)/test01.R",
+    "project_path" : "test01.R",
+    "properties" : {
+        "cursorPosition" : "2,16",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

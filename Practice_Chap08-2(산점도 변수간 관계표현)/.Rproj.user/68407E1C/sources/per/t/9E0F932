@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1537418251867.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1282820400",
+    "id" : "9E0F932",
+    "lastKnownWriteTime" : 1537418903,
+    "last_content_update" : 1537419080826,
+    "path" : "C:/Users/PC/Desktop/R 작업/Practice_Chap08-2(산점도 변수간 관계표현)/Ex01.R",
+    "project_path" : "Ex01.R",
+    "properties" : {
+        "cursorPosition" : "32,42",
+        "scrollLine" : "24",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

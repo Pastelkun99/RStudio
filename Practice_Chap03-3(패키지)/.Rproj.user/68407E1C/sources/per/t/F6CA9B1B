@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1536237243970.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "608534201",
+    "id" : "F6CA9B1B",
+    "lastKnownWriteTime" : 1535954381,
+    "last_content_update" : 1535954381,
+    "path" : "C:/Users/PC/Desktop/R 작업/Practice_Chap03-3(패키지)/ex01.R",
+    "project_path" : "ex01.R",
+    "properties" : {
+        "cursorPosition" : "30,31",
+        "scrollLine" : "20",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
